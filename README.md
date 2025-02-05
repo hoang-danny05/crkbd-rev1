@@ -40,6 +40,9 @@ qmk compile -km dannyhoang_testkeymap
 2) use QMK Toolbox to flash the keymaps to the boards
 
 ## Things to update
+- Recompile the code and fix issues with the mouse keys not working LINK: [RIGHT HERE](https://www.reddit.com/r/olkb/comments/gfgpwp/help_with_qmk_mouse_keys/)
+
+DONE
+- maybe move the locations of space to the thumb modifiers because it isn't being used (specifially the right thumb)
 - consider removing the arrow key HRMs because they provide no value for the downside
 - consider a layout without HRMs for an easier life (remember to name it v2)
-- maybe move the locations of space to the thumb modifiers because it isn't being used (specifially the right thumb)
