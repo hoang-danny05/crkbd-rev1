@@ -61,6 +61,12 @@ qmk compile -km dannyhoang_testkeymap
 - Upload font folder and how-to
 - Recompile the code and fix issues with the mouse keys not working LINK: [RIGHT HERE](https://www.reddit.com/r/olkb/comments/gfgpwp/help_with_qmk_mouse_keys/)
   - Very optional, mouse keys aren't *that* important
+- Add missing keys
+  - Mute microphone
+  - insert
+  - FN (whoops)
+  - page up/down
+  - home/end 
 
 DONE (the following are features now)
 - Upload copy of the c file for reference
